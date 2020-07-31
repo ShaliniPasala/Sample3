@@ -6,7 +6,7 @@ public class test2 {
 
 
 
-		System.out.println("local changes");
+		System.out.println("master changes");
 
 
 
