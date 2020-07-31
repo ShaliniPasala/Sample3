@@ -6,6 +6,8 @@ public class test2 {
 
 
 		System.out.println("Him hh");
+		System.out.println("Him hh");
+
 
 
 
