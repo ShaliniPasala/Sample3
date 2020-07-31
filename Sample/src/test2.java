@@ -5,7 +5,7 @@ public class test2 {
 		// TODO Auto-generated method stub
 
 
-System.out.println("Last final changes in branch");
+System.out.println("final changes in branch");
 
 
 
